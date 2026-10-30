@@ -1,0 +1,13 @@
+Meeting Title: Project Discussion
+
+Speaker 1: We need to complete the student management project by November 10.
+
+Speaker 2: I will complete the login page by November 5.
+
+Speaker 1: We have decided to use Python and Streamlit.
+
+Speaker 3: I will prepare the database design by November 7.
+
+Speaker 2: We still need to decide who will test the application.
+
+Speaker 1: Our next meeting will be on November 8

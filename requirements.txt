@@ -1,0 +1,6 @@
+streamlit
+pandas
+spacy==3.8.7
+python-docx
+pysrt
+python-dotenv
